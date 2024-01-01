@@ -32,6 +32,10 @@ audio {
   display: none;
 }
 
+video {
+  width: 80%;
+}
+
 .logo {
   color: white;
   font-size: 35px;
